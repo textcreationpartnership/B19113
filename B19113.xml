@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation for the payment of His Majesties rents, and revenues into his receipt of his exchequer, at his citty of Oxford</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19113</idno><idno type="EEBO-CITATION">19720624</idno>
+  <idno type="VID">205608</idno>
+  <idno type="EEBO-PROQUEST">2240856941</idno>
+  
+            <idno type="STC">Wing C2619</idno>
+            <idno type="OCLC">19720624</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19113)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205608)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1697:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation for the payment of His Majesties rents, and revenues into his receipt of his exchequer, at his citty of Oxford</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>By Leonard Lichfield,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at His Majesties court at Oxford, the eight day of February, in the eighteenth yeare of his reigne."</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Proclamations --  Great Britain.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:205608:1"/>
+            <head>
+               <figure>
+                  <figDesc>crowned blazon or coat of arms of the British royal family</figDesc>
+                  <head>
+                     <q>HONI SOIT QVI MAL Y PENSE</q>
+                  </head>
+                  <p>C. R.</p>
+               </figure> BY THE KING. ¶ <hi>A Proclamation for the Payment of His</hi> Majesties <hi>Rents, and Revenues into His Receipt of His Exchequer, at His Citty of</hi> Oxford.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS the Kings most excellent <hi>Majesty,</hi> for good causes, was gratiously plea<g ref="char:EOLhyphen"/>sed by His late Proclamation (amongst other things) to Order, Declare, and Pub<g ref="char:EOLhyphen"/>lish, that the Receipt of His <hi>Majesties</hi> Exchequer, and of the first Fruits, and Tenths payable by all Spirituall Persons, and others should be, and by the said Proclama<g ref="char:EOLhyphen"/>tion was, and stood adjourned unto the Citty of <hi>Oxford,</hi> for the whole Terme of Saint <hi>Hillarie</hi> then next ensuing, and now instant, and should begin, and be there held, and continued upon and from the Three and Twentieth day of <hi>Ianuary</hi> then next ensuing, untill, and upon the Thirteenth day of <hi>February</hi> then next following. And that the Court of <hi>Wards</hi> and <hi>Liveries,</hi> should be, and by the said Proclamati<g ref="char:EOLhyphen"/>on was, and stood adjourned for, and during all the Terme, and time aforesaid, from the Citty of <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> unto the said Citty of <hi>Oxford,</hi> and should be there held, and continued. His <hi>Majesty</hi> doth hereby pub<g ref="char:EOLhyphen"/>lish, and declare His Royall pleasure to be, That His said Receipt shall continue at His Citty of <hi>Oxford,</hi> and that all His <hi>Majesties</hi> Rents and Revenues shall be paid into His <hi>Majesties</hi> Receipt of His Exchequer, at the said Citty of <hi>Oxford,</hi> untill such time as His <hi>Majesty</hi> shall declare His farther pleasure to the contrary. And His <hi>Majesty</hi> doth by this His Proclamation Will and Require all His Auditors, and Receivors of His seve<g ref="char:EOLhyphen"/>rall Revenues to attend His <hi>Majesty</hi> in their severall Offices, and places, at the said Citty of <hi>Oxford.</hi> And that none of them, nor any other of His <hi>Majesties</hi> Officers, Ministers and Subjects whomsoever presume, af<g ref="char:EOLhyphen"/>ter the publishing of this His Proclamation, to pay any summe or summes of Mony due to His <hi>Majesty,</hi> at <hi>Westminster,</hi> or elsewhere contrary to His said Proclamation, as they will answer the same at their utter<g ref="char:EOLhyphen"/>most Perills. And His <hi>Majesty</hi> doth hereby inhibit, and forbid all the Officers, and Ministers of His Court of <hi>Wards,</hi> and <hi>Liveries,</hi> to make any Composition, or Compositions with any Person, or Persons, or to doe any other Act, or Acts, thing or things, touching or concerning that Court, at any other place then at His said Citty of <hi>Oxford,</hi> and without having due respect to His <hi>Majesties</hi> said Proclamation, untill His <hi>Majesty</hi> shall declare His farther pleasure. And His <hi>Majesty</hi> doth hereby declare all Compositions, or Agreements so by them already made, or to be made, contrary to this His <hi>Majesties</hi> Proclamation, to be void, and of no force and effect. And that His <hi>Majesty</hi> will not be bound to the performance of the same, or any of them. And His <hi>Majesty</hi> doth hereby Require, and Command all His Officers, Ministers and Subjects whomsoever, whom it may concerne, to yeeld due obedience and observance to this His Proclamation, as they will an<g ref="char:EOLhyphen"/>swer the contrary at their Perills.</p>
+            <closer>
+               <dateline>¶ <hi>Given at His</hi> Majesties <hi>Court at</hi> Oxford, <date>
+                     <hi>the Eight day of</hi> February, <hi>in the Eighteenth yeare of His Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
